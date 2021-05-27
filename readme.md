@@ -95,6 +95,18 @@ The list is separated into topics and each service or software stated gives supp
 - [Keybase](https://keybase.io/) - End-to-end encrypted chat and Dropbox alternative. It's backend is not open source and it also [got merged with Zoom](https://keybase.io/blog/keybase-joins-zoom)
 - [Telegram](https://telegram.org/) - Uses [MTProto Mobile Protocol](https://core.telegram.org/mtproto). However group channels cannot be E2E encrypted, and [private chats default to non-E2E](https://telegram.org/faq#q-what-if-im-more-paranoid-than-your-regular-user). Telegram states that [generating profit is not the end goal](https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this) of the app. However, the backend is not open source (yet).
 
+## File Transfer
+
+**⚠️ You are the product:**
+
+- [WeTransfer](https://wetransfer.com) - Advertisement delivery centric product for data transfer.
+
+**🔏 Alternatives:**
+
+- [Arcano](https://arcano.app/) - End-to-end encrypted file transfer service based in Switzerland.
+- [Blaze](https://blaze.now.sh/) - A p2p, real-time approach to transfering files.
+- [Snapdrop](https://snapdrop.net/) - Enables local file sharing through the browser, inspired by Airdrop.
+
 ## Cloud Storage
 
 **⚠️ You are the product:**
